@@ -9,8 +9,8 @@ Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou 
 <br>
 
   <a href="https://github.com/felipe-sant">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-sant&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&layout=compact&langs_count=16&theme=monokai"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-sant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
 

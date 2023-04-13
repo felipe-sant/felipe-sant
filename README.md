@@ -34,7 +34,7 @@ Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou 
 
 ### 🎓 Formações:
 
-**Técnico, ETEC Ilza Nascimento Pintus, São José dos Campos** - SP
+**Técnico em Desenvolvimento de Sistemas, ETEC Ilza Nascimento Pintus, São José dos Campos** - SP
 
 - Planejar e desenvolver projetos de sistemas computacionais.
 - Documentar, construir e manter sistemas de informações para web.

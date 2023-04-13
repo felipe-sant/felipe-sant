@@ -12,6 +12,8 @@ Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-sant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&layout=compact&langs_count=16&theme=radical"/>
   </a>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=radical)](https://git.io/streak-stats)
 </div>
 
 <br>

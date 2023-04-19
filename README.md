@@ -1,7 +1,6 @@
+<img src="img/logo-cat/cat-logo-128.png" alt="cat-logo" align="right" />
 
 # ❤️ Bem-vindo ao meu Perfil! ❤️
-
-<img src="img/logo-cat/cat-logo-256.png" alt="cat-logo" align="right" />
 
 Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou um estudante de programação na Fatec de São José dos Campos no curso de DSM.
 

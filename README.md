@@ -2,7 +2,7 @@
 
 # ❤️ Bem-vindo ao meu Perfil! ❤️
 
-Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou um estudante de programação na Fatec de São José dos Campos no curso de DSM.
+Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação do 1 semestre na Fatec de São José dos Campos no curso de DSM.
 
 
 ## 📝 Informações:
@@ -49,8 +49,6 @@ Olá, meu nome é **Luiz Felipe**, mas pode me chamar de Felipe, atualmente sou 
 ## 🔗 Redes Sociais:
 
 <div align="center">
-    <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.instagram.com/tren.felipe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://twitter.com/tren_felipx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>

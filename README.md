@@ -43,7 +43,7 @@ Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação 
 
 ## 🔗 Redes Sociais:
 
-<div align="center">
+<div align="left">
     <a href="https://www.instagram.com/tren.felipe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://twitter.com/tren_felipx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>

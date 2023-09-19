@@ -31,6 +31,9 @@ Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação 
   <a href="https://www.w3schools.com/mysql/" target="_blank">
     <img align="center" width=120 height=80 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
   </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img align="center" width=120 height=80 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+  </a>
 </div>
 
 

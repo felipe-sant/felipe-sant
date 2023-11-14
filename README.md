@@ -15,7 +15,7 @@ Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação 
 
 <br>
 
-## 📚 Estudos:
+## 📚 Conhecimentos:
 
 <div align="center"><br>
   <a href="https://www.w3schools.com/html/" target="_blank">

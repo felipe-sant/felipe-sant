@@ -2,7 +2,7 @@
 
 # ❤️ Bem-vindo ao meu Perfil! ❤️
 
-Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação do 3 semestre na Fatec de São José dos Campos no curso de DSM.
+Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação do 3 semestre na Fatec de São José dos Campos no curso de Desenvolvimento de Software Multiplataforma.
 
 
 ## 📝 Informações:

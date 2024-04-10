@@ -1,4 +1,4 @@
-<img src="img/logo-cat/cat-logo-128.png" alt="cat-logo" align="right" />
+<img src="img/logo-cat/cat-logo-64.png" alt="cat-logo" align="right" />
 
 # ❤️ Bem-vindo ao meu Perfil! ❤️
 

@@ -2,8 +2,7 @@
 
 # ❤️ Bem-vindo ao meu Perfil! ❤️
 
-Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação do 3 semestre na Fatec de São José dos Campos no curso de Desenvolvimento de Software Multiplataforma.
-
+Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação na Fatec no curso de Desenvolvimento de Software Multiplataforma.
 
 ## 📝 Informações:
 
@@ -17,14 +16,31 @@ Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação 
 
 ## 📚 Conhecimentos:
 
-<div align="center"><br>
-  <img align="center" width=100 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img align="center" width=100 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" width=100 height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" width=100 height=70 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" width=100 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" width=100 height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
-  <img align="center" width=100 height=70 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"/>
+<div align="left">
+  <img align="center" src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/HTML-ec6231?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+</div>
+
+<br>
+
+<div align="left">
+  <img align="center" src="https://img.shields.io/badge/C%23-3B2E58?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+</div>
+
+<br>
+
+<div align="left">
+  <img align="center" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> 
+  <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
 </div>
 
 

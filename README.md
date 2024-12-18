@@ -4,12 +4,10 @@
 
 Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação na Fatec no curso de Desenvolvimento de Software Multiplataforma.
 
-## 📝 Informações:
-
-<div align="center">
-<br>
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&layout=compact&langs_count=16&theme=radical&title_color=FE428E" />
+<div align="left">
+<img width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=radical" />
+<p></p>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&theme=radical" />
 </div>
 
 <br>

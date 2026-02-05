@@ -1,61 +1,71 @@
-<img src="img/logo-cat/cat-logo-64.png" alt="cat-logo" align="right" />
+# 👋 Olá, seja bem-vindo ao meu perfil!
 
-# ❤️ Bem-vindo ao meu Perfil! ❤️
+Meu nome é **Luiz Felipe**, sou desenvolvedor **full stack**, formado como **técnico em Desenvolvimento de Sistemas** e atualmente em formação para me tornar **tecnólogo em Desenvolvimento de Software Multiplataforma**.
 
-Olá, meu nome é **Luiz Felipe**, atualmente sou um estudante de programação na Fatec no curso de Desenvolvimento de Software Multiplataforma.
+Aqui você encontrará meus **principais projetos**, estudos e experimentos, além das minhas **formações acadêmicas e profissionais**, que representam minha evolução contínua na área de tecnologia. Tenho interesse em desenvolver soluções **eficientes**, **bem estruturadas** e **escaláveis**, sempre buscando aprimorar meus conhecimentos em novas ferramentas, boas práticas e arquiteturas modernas de software.
 
-<div align="left">
-<img width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=radical" />
-<p></p>
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sant&theme=radical" />
-</div>
+---
 
-<br>
+## 🎓 Formações
 
-## 📚 Conhecimentos:
+### FATEC
 
-<div align="left">
-  <img align="center" src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/HTML-ec6231?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-</div>
+> **Em andamento — 5º semestre**
 
-<br>
+Curso superior **tecnólogo em Desenvolvimento de Software Multiplataforma**, com foco em **TypeScript**, **React**, **bancos de dados SQL e NoSQL**, **integração e consumo de APIs**, **programação orientada a objetos**, **boas práticas de organização de código** e **testes**. A formação inclui o desenvolvimento de projetos acadêmicos e parcerias com empresas, utilizando a metodologia ágil **SCRUM**.
 
-<div align="left">
-  <img align="center" src="https://img.shields.io/badge/C%23-3B2E58?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-</div>
+---
 
-<br>
+### ETEC
 
-<div align="left">
-  <img align="center" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> 
-  <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> 
-</div>
+> **Concluído — 2020 a 2022**
 
+Curso técnico integrado ao ensino médio em **Desenvolvimento de Sistemas**, responsável pelo meu primeiro contato prático com a área de tecnologia. A formação abordou **HTML, CSS e JavaScript**, fundamentos de **banco de dados e modelagem relacional**, além da aplicação de **metodologias ágeis**, com destaque para o desenvolvimento de um **projeto de conclusão de curso utilizando SCRUM**, **JavaScript** e **PHP**.
 
-### 🎓 Formações:
+---
 
-**Técnico em Desenvolvimento de Sistemas, ETEC Ilza Nascimento Pintus, São José dos Campos** - SP
+## ⭐ Projetos em Destaque
 
-- Planejar e desenvolver projetos de sistemas computacionais.
-- Documentar, construir e manter sistemas de informações para web.
-- Elaborar registros e planilhas de acompanhamento e controle de atividades.
-- Utilizar críterios e aplicar procedimentos na ánalise e problematização de processos produtivos e tecnológicos
+### template
 
-<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 🔗 Redes Sociais:
+Criação de **repositórios template pré-configurados**, estruturados com **padrões de código**, boas práticas de desenvolvimento e configurações iniciais, com o objetivo de **acelerar a criação de novos projetos**, garantir consistência entre aplicações e facilitar a manutenção e escalabilidade do código.
 
-<div align="left">
-    <a href="https://www.instagram.com/tren.felipe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/lfelipesant/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+🔗 https://github.com/felipe-sant/template.git
+
+---
+
+### mnist-classifier
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+Projeto desenvolvido com **Deep Learning**, utilizando **Keras** e **TensorFlow**, voltado ao treinamento de uma **rede neural** capaz de reconhecer **dígitos manuscritos**. O modelo foi treinado e avaliado com base no dataset público **MNIST**, referência em tarefas de visão computacional.
+
+🔗 https://github.com/felipe-sant/mnist-classifier.git
+
+---
+
+### maps
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+Desenvolvimento de uma aplicação responsável por **gerar dois pontos aleatórios no território brasileiro** e **simular um voo entre essas localidades**, considerando a **curvatura da Terra** para maior precisão do trajeto. A aplicação utiliza uma **API do IBGE** para controle das coordenadas geográficas e identificação dos **estados do Brasil** sobre os quais a aeronave está passando.
+
+🔗 https://github.com/felipe-sant/maps-old.git
+
+<br />
+
+> [!NOTE]
+> Veja mais projetos na aba de repositórios.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seu-email@exemplo.com  
+- 💼 LinkedIn: https://linkedin.com/in/seu-perfil  
+- 🐙 GitHub: https://github.com/seu-usuario  
+- 🌐 Portfólio: https://seusite.com

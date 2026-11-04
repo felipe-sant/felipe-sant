@@ -4,6 +4,12 @@ Meu nome é **Luiz Felipe**, sou desenvolvedor **full stack**, formado como **t�
 
 Aqui você encontrará meus **principais projetos**, estudos e experimentos, além das minhas **formações acadêmicas e profissionais**, que representam minha evolução contínua na área de tecnologia. Tenho interesse em desenvolver soluções **eficientes**, **bem estruturadas** e **escaláveis**, sempre buscando aprimorar meus conhecimentos em novas ferramentas, boas práticas e arquiteturas modernas de software.
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=darcula)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 ## 🎓 Formações

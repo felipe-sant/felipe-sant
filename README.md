@@ -6,8 +6,6 @@ Aqui você encontrará meus **principais projetos**, estudos e experimentos, al�
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipe-sant&theme=darcula)](https://git.io/streak-stats)
-
 </div>
 
 ---

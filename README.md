@@ -72,3 +72,12 @@ Desenvolvimento de uma aplicação responsável por **gerar dois pontos aleatór
 - 📧 Email: contact.felipesant@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/lfelipesant](https://www.linkedin.com/in/lfelipesant)
 - 🌐 Portfólio: [fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392423047/)
+
+---
+
+<div align="center">
+
+![img](https://github-readme-streak-stats.herokuapp.com/?user=felipe-sant&theme=darcula)
+  
+</div>
+
